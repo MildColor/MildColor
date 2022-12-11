@@ -21,6 +21,14 @@
 </div>
 
 
+### 🛠 used at least once...
+<div align=center> 
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+
+  
+</div> 
 <br>
 <br>
 
