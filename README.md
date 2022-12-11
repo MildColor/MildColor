@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D9EFCC&height=300&section=header&text=Welcome!%20render&fontSize=90" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D9EFCC&height=300&section=header&text=Welcome!&fontSize=70&desc=Jiwoon's%20GitHub&descAlign=60&descAlignY=65&animation=fadeIn" />
 
 
 ## 🛠 Programming Languages
@@ -20,3 +19,12 @@
   <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">
   <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=React Router&logoColor=white">
 </div>
+
+
+<br>
+<br>
+
+<div align=center> 
+  <img src="https://github-readme-stats.vercel.app/api?username=MildColor&theme=merko&bg_color==25,fff,E7F5DF,daf0a8">
+</div>
+
