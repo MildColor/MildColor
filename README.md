@@ -50,7 +50,7 @@
     <a href="https://this-pastel.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logoColor=white"/>
   </a>
-  <a href=https://www.notion.so/Study-Road-Map-98d457e25cdc47f89d6a9c8ccd2870f1" target="_blank">
+  <a href="https://www.notion.so/Study-Road-Map-98d457e25cdc47f89d6a9c8ccd2870f1" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 </div> 
