@@ -1,5 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D9EFCC&height=300&section=header&text=Welcome!&fontSize=70&desc=Jiwoon's%20GitHub&descAlign=60&descAlignY=65&animation=fadeIn" />
-
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=D9EFCC&height=300&section=header&text=Welcome!&fontSize=70&desc=Jiwoon's%20GitHub&descAlign=60&descAlignY=65&animation=fadeIn" /> -->
+```
+  __      __  ______  ____    ____    __  __  ____
+ /\ \  __/\ \/\  _  \/\  _`\ /\  _`\ /\ \/\ \/\  _`\
+ \ \ \/\ \ \ \ \ \L\ \ \,\L\_\ \,\L\_\ \ \ \ \ \ \L\ \
+  \ \ \ \ \ \ \ \  __ \/_\__ \\/_\__ \\ \ \ \ \ \ ,__/
+   \ \ \_/ \_\ \ \ \/\ \/\ \L\ \/\ \L\ \ \ \_\ \ \ \/
+    \ `\___x___/\ \_\ \_\ `\____\ `\____\ \_____\ \_\
+     '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
+ 
+```
 
 ## ⌨️ Programming Languages ⌨️ 
 <div align=center> 
